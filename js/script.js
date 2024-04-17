@@ -14,5 +14,6 @@ function enterClicked() {
 
   // output
   document.getElementById("user-info").innerHTML =
-    "Your adress is: " +440+ ",Longfilds"
+    "Your adress is:  " +440+ "  Longfilds"
+
 }
